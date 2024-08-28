@@ -1,3 +1,3 @@
 # CalculatorApp
 
-This is a calculator application created using Jetpack Compose through Kotlin.
+This is a calculator app created using Jetpack Compose through Kotlin.
