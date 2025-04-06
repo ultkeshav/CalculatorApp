@@ -47,4 +47,4 @@ A simple yet fully functional **Calculator App** built using **Kotlin** and **Je
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/compose-calculator-app.git
+[git clone https://github.com/your-username/compose-calculator-app.git](https://github.com/ultkeshav/CalculatorApp.git)
